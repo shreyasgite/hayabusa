@@ -1,5 +1,5 @@
 ---
-title: "Orbiters Who Ate Light"
+title: "Orbiters, who ate light"
 description: "A story of workers on space factories and synthetic evolution of humans."
 layout: post
 toc: false
@@ -9,7 +9,7 @@ search_exclude: true
 categories: [sci-fi, longevity, synthetic biology]
 ---
 
-# Orbiters Who Ate Light
+
 
 It started with the orbiters. As the number of manufacturing stations in the space increased, there was a higher demand for the orbiters to man these space factories. The food needed for this many workers in the space was proving to be a big hurdle for the space manufacturing startups to break even. It was eating into precious storage space for high-value goods and raw materials, with more Rockets supplying food then the raw materials for factories. 
 That’s when one of the new space factory startups created a program to synthetically mutate the orbiters’ cell to produce energy from the light. It was rudimentary at first; it only added a small percentage of the total required calories. And the mutation was temporary, lasted around 28 days, a typical working shift in space factories.
