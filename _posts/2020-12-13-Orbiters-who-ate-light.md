@@ -18,4 +18,9 @@ However, once the gate was open... Space agencies, (Asteroid) mining companies a
 
 Within a decade we had the technology to generate most of our calories from light and a handful of pills. Without the need for digesting, the human body needed much less energy and several organs became obsolete. We started to re-engineer our bodies for their new functionality. First, we got rid of the intestine, then the stomach. Kidneys got smaller. We lost our teeth and our jaws became more narrow. As we needed fewer calories to maintain homeostasis, we directed the excess energy towards the brain. This energy led to the creation of a new layer: the neural cortex.
 
-A century after the first orbiter was modified, we were a new species. Our torso, harbouring fewer organs, was more narrow than that of our ancestors. So was our jaw. We developed a larger brain and eyes to perceive the new reality unknown before to the mankind; making us...!
+A century after the first orbiter was modified, we were a new species. Our torso, harbouring fewer organs, was more narrow than that of our ancestors. So was our jaw. We however, developed a larger brain and eyes to perceive a reality previously unknown to the mankind. Filled with curiosity and hope, we set out to reach for the stars.
+
+
+*Inspired from [Varda](varda.com) a space factory startup, first part of the book [-Molecular Biology of Cell](https://www.amazon.de/Molecular-Biology-Cell-Bruce-Alberts/dp/0815344643), how discovery of fire lead to bigger brain and decrease in size of intestine -from Sapiens, and [this video](https://youtu.be/PzYLSPY5yFw) on jaw design etc..*
+
+Thanks Tore Knabe for feedback and proof reading the draft. 
