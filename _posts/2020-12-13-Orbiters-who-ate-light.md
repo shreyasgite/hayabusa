@@ -1,5 +1,5 @@
 ---
-title: "Orbiters, who ate light"
+title: "Orbiters, who ate light."
 description: "A story of workers on space factories and synthetic evolution of humans."
 layout: post
 toc: false
