@@ -6,7 +6,7 @@ toc: false
 comments: true
 hide: false
 search_exclude: true
-categories: [sci-fi, longevity, synthetic biology]
+categories: [sci-fi]
 ---
 
 
