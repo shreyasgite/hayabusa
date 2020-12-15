@@ -6,7 +6,7 @@ toc: false
 comments: true
 hide: false
 search_exclude: true
-categories: [sci-fi, biotech]
+categories: [sci-fi]
 ---
 
 
