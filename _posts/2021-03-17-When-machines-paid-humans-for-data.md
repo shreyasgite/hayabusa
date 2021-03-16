@@ -1,5 +1,5 @@
 ---
-title: "When machines paid humans for the data."
+title: "When machines paid humans for data."
 description: "How self supervised learning on multimodal datasets led to rise new A(G)Is"
 layout: post
 toc: false
