@@ -10,9 +10,9 @@ categories: [AI,]
 ---
 
 
-Somewhere on Discord in 2025 
-HypnoRains: Yup, my recent content contributed 1.409 percent to AI-8's highest score on the LIFE benchmark. 
-R0ck3r_kitty: Woh! That's a huge contribution from a single creator. You're rich, baby!
+Somewhere on Discord in 2025.  
+HypnoRains: Yup, my recent content contributed 1.409 percent to AI-8's highest score on the LIFE benchmark.  
+R0ck3r_kitty: Woh! That's a huge contribution from a single creator. You're rich, baby!  
 HypnoRains: Looks like I am.
 
 Back in the summer of 2021, there was a new social network on the rise. You could share any form of digital content, videos, stories, code, or games. The only rule was that the content had to be original as it was used to train the next generation of AIs. As creators owned their content as NFTs, they got a little bit rich when it was auctioned or leased to different companies and labs to train their A(G)Is.
