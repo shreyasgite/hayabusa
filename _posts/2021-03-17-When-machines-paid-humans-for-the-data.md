@@ -19,7 +19,7 @@ Back in the summer of 2021, there was a new social network on the rise. You coul
 
 Stars were assigned to this data, depending upon its value for training the AIs. And the creators who earned the highest stars were paid handsomely. They soon figured out that the more diverse the content was, the more stars it generated. The same was with the multimodality of the content. E.g., a car driving video, with a person doing a live commentary about the scene and driving decisions, was highly rewarded. Sports commentary, cooking videos, or Yoga videos were hit for a time. New 3D sensors on the phones, mixed reality devices also gave a new dimension for the creators to play with. Within a couple of years after launching the app, a glorious amount of unique data was made available for training the AIs. 
 
-With better tools for testing and representing the models, we understood better which datapoints contributed directly to the models' progression or regression. Soon, most AI labs had automatic processes to buy content that would add value to the data and move the performances of the models further on SOTA. As the machines started making their own decision on selecting the next right data, humans created more perspectives for machines to learn from.
+With better tools for testing and representing the models, we understood better which datapoints contributed directly to the models' progression or regression. Soon, most AI labs had automatic processes to buy content that would add value to the data and move the model's performance further on SOTA. As the machines started making their own decision on selecting the next right data, humans created more perspectives for machines to learn from.
 
 
 
